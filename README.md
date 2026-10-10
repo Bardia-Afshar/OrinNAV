@@ -157,7 +157,7 @@ You need a Jetson Orin Nano with the board on it, JetPack 6, Python 3.10+, a mon
 **3. Clone and run:**
 
 ```bash
-git clone https://github.com/Bardia-Afshar/OrinNAV_Private.git
+git clone https://github.com/Bardia-Afshar/OrinNAV.git
 cd OrinNAV_Private/software/test-gui
 python3 -m venv .venv
 source .venv/bin/activate
